@@ -4,7 +4,7 @@ filelock==3.0.12
 pbr==5.4.5
 six==1.14.0
 stevedore==1.32.0
-virtualenv==20.0.16
+virtualenv==20.26.6
 virtualenv-clone==0.5.4
 virtualenvwrapper==4.8.4
 virtualenvwrapper-win==1.2.6
